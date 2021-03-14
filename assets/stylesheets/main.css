@@ -1,0 +1,150 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/* //////////////////////////////////////////////////////////////////////// */
+
+#topnavd,#topnavc,#topnavb,#topnava{
+    position:absolute;
+    /* left:100px; */
+    /* right:15px; */
+    top:15px;
+}
+#topnavd{
+    right:15px;
+}
+#topnavc{
+    right:65px;
+}
+#topnavb{
+    top:25px;
+    right:125px;
+    font-size:75%;
+}
+#topnava{
+    top:25px;
+    right:185px;
+    font-size:75%;
+}
+#topnavdimg{
+    border-radius:50%;
+}
+
+#logo{
+    position:absolute;
+    top:29.5%;
+    left:42.90%;
+}
+#search{
+    position:absolute;
+    top:44%;
+    left: 34%;
+    height:35px;
+    width:30%;
+    border-radius:25px;
+}
+#submita{
+    position:absolute;
+    top:54%;
+    left:43%;
+}
+#submitb{
+    position:absolute;
+    top:54%;
+    left:50%;
+}
+#lang{
+    position:absolute;
+    top:60%;
+    left:37%;
+    font-size:80%;
+}
+#loc{
+    position:absolute;
+    top:91%;
+    left:1.5%;
+    font-size:80%;
+}
+#foot{
+    position:absolute;
+    top:96%;
+    left:1.5%;
+    font-size:80%;
+
+}
+#foota{
+    position:relative;
+}
+#footb{
+    position:relative;
+    left:25px;
+}
+#footc{
+    position:relative;
+    left:50px;
+}
+#footd{
+    position:relative;
+    left:75px;
+}
+#foote{
+    position:relative;
+    left:1350px;
+}
+#footf{
+    position:relative;
+    left:1375px;
+}
+#footg{
+    position:relative;
+    left:1400px;
+}
+
+
+
+
+
+
+
+
+
+
